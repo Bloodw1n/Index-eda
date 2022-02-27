@@ -7,4 +7,6 @@
 - CSS
 - JS (swiper)
 
+Смотреть [здесь](https://bloodw1n.github.io/Index-eda/)
+
 ![Стартовый экран](img/Readme/Readme.png)
